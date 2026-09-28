@@ -1,0 +1,26 @@
+{
+  "name": "Someone Fishy Air",
+  "color": "#2E7DD1",
+  "bgcolor": "#0B2A5B",
+  "aircrafts": {
+    "737_700": {
+      "name": "Boeing b737-700",
+      "liveries": [
+        {
+          "name": "Someone Fishy - PR-AEX",
+          "texture": [
+            "https://beta.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
+            "https://beta.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+            "PASTE_YOUR_IMGBB_LIVERY_URL_HERE"
+          ],
+          "credits": "Gabryel / Someone Fishy concept"
+        }
+      ],
+      "labels": [
+        "Normal map",
+        "Specular shader",
+        "Texture"
+      ]
+    }
+  }
+}
